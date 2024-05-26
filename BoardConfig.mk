@@ -10,7 +10,7 @@
 DEVICE_PATH := device/sony/apollo
 
 # Display
-TARGET_SCREEN_DENSITY := 480
+TARGET_SCREEN_DENSITY := 420
 
 # Kernel
 TARGET_KERNEL_CONFIG := tama_apollo_dcm_defconfig
