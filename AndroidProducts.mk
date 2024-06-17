@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_apollo_kddi.mk
+    $(LOCAL_DIR)/afterlife_apollo_kddi.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_apollo_kddi-user \
-    lineage_apollo_kddi-userdebug \
-    lineage_apollo_kddi-eng
+    afterlife_apollo_kddi-user \
+    afterlife_apollo_kddi-userdebug \
+    afterlife_apollo_kddi-eng
